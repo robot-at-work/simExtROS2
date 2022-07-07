@@ -47,6 +47,7 @@ find_package(visualization_msgs REQUIRED)
 find_package(std_srvs REQUIRED)
 find_package(example_interfaces REQUIRED)
 find_package(raw_msgs REQUIRED)
+find_package(ros2_aruco_interfaces REQUIRED)
 find_package(image_transport)
 
 if(NOT LIBPLUGIN_DIR)

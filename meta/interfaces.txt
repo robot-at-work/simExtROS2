@@ -1,9 +1,13 @@
 builtin_interfaces/msg/Duration
 builtin_interfaces/msg/Time
+geometry_msgs/msg/Point
 geometry_msgs/msg/Quaternion
 geometry_msgs/msg/Transform
 geometry_msgs/msg/TransformStamped
 geometry_msgs/msg/Vector3
+geometry_msgs/Pose
+geometry_msgs/PoseArray
+ros2_aruco_interfaces/msg/ArucoMarkers
 sensor_msgs/msg/Image
 sensor_msgs/msg/PointCloud2
 sensor_msgs/msg/PointField

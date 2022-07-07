@@ -117,6 +117,7 @@ ament_target_dependencies(
     "std_srvs"
     "example_interfaces"
     "raw_msgs"
+    "ros2_aruco_interfaces"
 )
 if(image_transport_FOUND)
     ament_target_dependencies(

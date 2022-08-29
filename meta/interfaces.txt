@@ -57,7 +57,7 @@ raw_msgs/msg/RawDigitalInputNode
 raw_msgs/msg/RawDigitalInputs
 raw_msgs/msg/RawAnalogInputNode
 raw_msgs/msg/RawAnalogInputs
-raw_msgs/msg/RawLinkVelocity
+raw_msgs/msg/RawLinkSpeed
 raw_msgs/msg/RawCornerDetection
 raw_msgs/msg/RawCornersDetected
 raw_msgs/msg/RawAxisWorkspace

@@ -35,6 +35,7 @@ std_srvs/srv/SetBool
 std_srvs/srv/Trigger
 example_interfaces/srv/AddTwoInts
 example_interfaces/action/Fibonacci
+raw_msgs/msg/RawFrame
 raw_msgs/msg/RawAxisState
 raw_msgs/msg/RawAxesStates
 raw_msgs/msg/RawMotorState
